@@ -50,7 +50,7 @@ ROCK PAPER SCISSORS GAME/
 Rock beats Scissors
 Scissors beats Paper
 Paper beats Rock
-Each round is determined by comparing your choice to the computer's.
+Each round is determined by comparing your choice to the computers.
 
 🧠 Learning Highlights
 DOM manipulation and event handling
