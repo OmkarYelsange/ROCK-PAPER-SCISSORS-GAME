@@ -4,7 +4,7 @@
 
 ## 🔗 Live Demo
 
-👉 **[Play Now on Vercel](https://rock-paper-scissors-game-three-rho.vercel.app)**  
+👉🏻 **(https://rock-paper-scissors-game-three-rho.vercel.app)**  
 ---
 
 ## 🧩 Features
